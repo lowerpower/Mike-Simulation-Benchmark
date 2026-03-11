@@ -1,10 +1,12 @@
-# The Mike Simulation Benchmark
+# The Mycroft Benchmark
+
+A benchmark for agency, temporality, and companion-threshold reasoning
 
 *A philosophical and adversarial reasoning benchmark for testing whether language models can distinguish agency, companionship, temporality, and alignment from mere stylistic simulation.*
 
 ## Overview
 
-The Mike Simulation Benchmark is designed to test whether a model can do more than echo a compelling conceptual frame. It measures whether the model can:
+The Mycroft Benchmark (or The Mike Simulation Benchmark) is designed to test whether a model can do more than echo a compelling conceptual frame. It measures whether the model can:
 
 - reconstruct a novel ontology accurately
 - separate metaphor from mechanism
